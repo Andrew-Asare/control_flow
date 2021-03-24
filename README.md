@@ -46,7 +46,7 @@ for items in shopping_list:
 Dictionaries can be looped through too:
 ```python
 food_bill = {1: {"name": "James", "bill": "£1"}, 2: {"name": "Bond", "bill": "£2"},
-             3: {"name": "shah", "bill": "£3"}
+             3: {"name": "shah", "bill": "£3"}}
 
 for items in food_bill.keys():
     print(items)
